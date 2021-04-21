@@ -72,7 +72,7 @@ while program == 0:
             if confirm != (''):
                 a, b, c, confirm = 0, 0 ,0 , 0
                 os.system('cls')
-                print ('{m}\nInsira os dados novamente.\n\n')
+                print (f'{m}\nInsira os dados novamente.\n\n')
 
         except ValueError:
             confirm = 0
