@@ -1,3 +1,4 @@
+# It's in portuguese. :s
 # Um programa que resolve equações de 2° grau.
 
 # Fórmula básica: x=(-b+-²v(b²-4ac)/(2a)
